@@ -1,0 +1,15 @@
+{
+    "name": "nguemoue/agentfence",
+    "description": "Zero-dependency PHP CLI that catches secrets saved into AI coding-agent files before they are committed.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    },
+    "bin": [
+        "agentfence.php"
+    ],
+    "scripts": {
+        "test": "php tests/run.php"
+    }
+}
