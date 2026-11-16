@@ -1,7 +1,5 @@
 # agentfence
 
-[![tests](https://github.com/Nguemoue/project2026_2026-11-16_agentfence/actions/workflows/test.yml/badge.svg)](https://github.com/Nguemoue/project2026_2026-11-16_agentfence/actions/workflows/test.yml)
-
 CLI PHP, zéro dépendance, à lancer avant un commit. Il cherche deux choses qui fuient en ce moment depuis les agents de code :
 
 1. Les secrets recopiés dans les fichiers de permission (`.claude/settings.local.json`, Cursor, Codex, Gemini, Continue…).
